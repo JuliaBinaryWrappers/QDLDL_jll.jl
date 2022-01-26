@@ -1,0 +1,143 @@
+[[QDLDL]]
+arch = "aarch64"
+git-tree-sha1 = "4dd23e3b5e5a819be6087a4eb54af0e641a968a2"
+os = "macos"
+
+    [[QDLDL.download]]
+    sha256 = "aa53344587e20477550737cf564ac418d034c205857d99e2ffcfd6b2bdea970e"
+    url = "https://github.com/JuliaBinaryWrappers/QDLDL_jll.jl/releases/download/QDLDL-v0.1.5+0/QDLDL.v0.1.5.aarch64-apple-darwin.tar.gz"
+[[QDLDL]]
+arch = "aarch64"
+git-tree-sha1 = "033e8b4ccf5301418cb4db0ed6d5032076080a9a"
+libc = "glibc"
+os = "linux"
+
+    [[QDLDL.download]]
+    sha256 = "6a45f4f633bc26465c68b3281e172650555cef03329d63e1625961cfbcb33edd"
+    url = "https://github.com/JuliaBinaryWrappers/QDLDL_jll.jl/releases/download/QDLDL-v0.1.5+0/QDLDL.v0.1.5.aarch64-linux-gnu.tar.gz"
+[[QDLDL]]
+arch = "aarch64"
+git-tree-sha1 = "c2304c902637d20c105806597704883d3741daa5"
+libc = "musl"
+os = "linux"
+
+    [[QDLDL.download]]
+    sha256 = "b4ceadf154c6aad91f81c43768afe0d2f224c87481714ef594564089b5c55818"
+    url = "https://github.com/JuliaBinaryWrappers/QDLDL_jll.jl/releases/download/QDLDL-v0.1.5+0/QDLDL.v0.1.5.aarch64-linux-musl.tar.gz"
+[[QDLDL]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "269eeab8d312e62e49eb5cee46e2afe311222f90"
+libc = "glibc"
+os = "linux"
+
+    [[QDLDL.download]]
+    sha256 = "67339c246c5d2eff7ca735febf0580494f528f612fe0a8e2cbd2b36d3c74c8db"
+    url = "https://github.com/JuliaBinaryWrappers/QDLDL_jll.jl/releases/download/QDLDL-v0.1.5+0/QDLDL.v0.1.5.armv6l-linux-gnueabihf.tar.gz"
+[[QDLDL]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "176a4520ecd25e0e4c8919f8c98346a584760a22"
+libc = "musl"
+os = "linux"
+
+    [[QDLDL.download]]
+    sha256 = "d05a560b304c37c8a08c70eed6ae289a2fe46e45ea22fe620ffa0165a9c1bb2f"
+    url = "https://github.com/JuliaBinaryWrappers/QDLDL_jll.jl/releases/download/QDLDL-v0.1.5+0/QDLDL.v0.1.5.armv6l-linux-musleabihf.tar.gz"
+[[QDLDL]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "af08adfbb383f41dcc66f809bb42f83a676c7316"
+libc = "glibc"
+os = "linux"
+
+    [[QDLDL.download]]
+    sha256 = "7b82df0eb0803094f349399f7a17d8fc4a42194e683a0ce8c0181a0a7d5d3178"
+    url = "https://github.com/JuliaBinaryWrappers/QDLDL_jll.jl/releases/download/QDLDL-v0.1.5+0/QDLDL.v0.1.5.armv7l-linux-gnueabihf.tar.gz"
+[[QDLDL]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "dc4fd4cb90acbb9fe2b06c43d3dbbd2aaa60e0fe"
+libc = "musl"
+os = "linux"
+
+    [[QDLDL.download]]
+    sha256 = "dec00106ea9588185431158142bd94b4314b0a0e75019df1f1e78248e5670f75"
+    url = "https://github.com/JuliaBinaryWrappers/QDLDL_jll.jl/releases/download/QDLDL-v0.1.5+0/QDLDL.v0.1.5.armv7l-linux-musleabihf.tar.gz"
+[[QDLDL]]
+arch = "i686"
+git-tree-sha1 = "4d81a8a5eb3983a7ac863dd5f39667350334b7a1"
+libc = "glibc"
+os = "linux"
+
+    [[QDLDL.download]]
+    sha256 = "1aade1ddbfa2c17e3d2d002288c75a3b8b4fbb479b9d00f6f712ea6ed4369334"
+    url = "https://github.com/JuliaBinaryWrappers/QDLDL_jll.jl/releases/download/QDLDL-v0.1.5+0/QDLDL.v0.1.5.i686-linux-gnu.tar.gz"
+[[QDLDL]]
+arch = "i686"
+git-tree-sha1 = "6b77db3e4a99738c5e1b09f1278fedc9b0a98649"
+libc = "musl"
+os = "linux"
+
+    [[QDLDL.download]]
+    sha256 = "9b7417b7fff5a885b71a9bd409b2a6a64bf8305f264c918c067652cdad078a1e"
+    url = "https://github.com/JuliaBinaryWrappers/QDLDL_jll.jl/releases/download/QDLDL-v0.1.5+0/QDLDL.v0.1.5.i686-linux-musl.tar.gz"
+[[QDLDL]]
+arch = "i686"
+git-tree-sha1 = "4ea72da39e8d3fea5dd9baacef726696d41a4a5d"
+os = "windows"
+
+    [[QDLDL.download]]
+    sha256 = "0fa4c1cf9cdbc785b1a8b15c30d247a373ff969fa172749a1c65de3b5e9956ba"
+    url = "https://github.com/JuliaBinaryWrappers/QDLDL_jll.jl/releases/download/QDLDL-v0.1.5+0/QDLDL.v0.1.5.i686-w64-mingw32.tar.gz"
+[[QDLDL]]
+arch = "powerpc64le"
+git-tree-sha1 = "0fa28ffd55ec49d5120bf9e5c48254e0b2fc9377"
+libc = "glibc"
+os = "linux"
+
+    [[QDLDL.download]]
+    sha256 = "14f97322aead0b31d0de2d485d771ce6c0c8d5de591f43d58d338aa9f3d8b3f8"
+    url = "https://github.com/JuliaBinaryWrappers/QDLDL_jll.jl/releases/download/QDLDL-v0.1.5+0/QDLDL.v0.1.5.powerpc64le-linux-gnu.tar.gz"
+[[QDLDL]]
+arch = "x86_64"
+git-tree-sha1 = "bda9e51b7ea4a1f069027e72f29a6c3018bc44c7"
+os = "macos"
+
+    [[QDLDL.download]]
+    sha256 = "f85f2b72bbcd4087d74a78c7fe43365f6bffc1a3f0e0ab7484d285abde664636"
+    url = "https://github.com/JuliaBinaryWrappers/QDLDL_jll.jl/releases/download/QDLDL-v0.1.5+0/QDLDL.v0.1.5.x86_64-apple-darwin.tar.gz"
+[[QDLDL]]
+arch = "x86_64"
+git-tree-sha1 = "92fb1e05867aa4f21ed5252f3a7e8f3a872731e7"
+libc = "glibc"
+os = "linux"
+
+    [[QDLDL.download]]
+    sha256 = "c34bfdb5b7129bdeb231655ae22b5d2fcddd567fdb72e9feb2d9a30a68fa5dc1"
+    url = "https://github.com/JuliaBinaryWrappers/QDLDL_jll.jl/releases/download/QDLDL-v0.1.5+0/QDLDL.v0.1.5.x86_64-linux-gnu.tar.gz"
+[[QDLDL]]
+arch = "x86_64"
+git-tree-sha1 = "2d473b9486a1c241007b5deb9f0ec23a2d76d528"
+libc = "musl"
+os = "linux"
+
+    [[QDLDL.download]]
+    sha256 = "37a3c4f934f24b40c038f8793204bb9714884934bcf74ee66e75e2f10ff5db87"
+    url = "https://github.com/JuliaBinaryWrappers/QDLDL_jll.jl/releases/download/QDLDL-v0.1.5+0/QDLDL.v0.1.5.x86_64-linux-musl.tar.gz"
+[[QDLDL]]
+arch = "x86_64"
+git-tree-sha1 = "67d2ff23eff83b2099fc47dbe3c4b96b960617bc"
+os = "freebsd"
+
+    [[QDLDL.download]]
+    sha256 = "ebb57a9d3d858361a231161cee2f8b21e88965640c26782b2407ce068972439a"
+    url = "https://github.com/JuliaBinaryWrappers/QDLDL_jll.jl/releases/download/QDLDL-v0.1.5+0/QDLDL.v0.1.5.x86_64-unknown-freebsd.tar.gz"
+[[QDLDL]]
+arch = "x86_64"
+git-tree-sha1 = "d31a84a20a30ffb43bb3c58da240d24e8aedbf3c"
+os = "windows"
+
+    [[QDLDL.download]]
+    sha256 = "49240c16a9d8b3b2f2169fba8f351b76ae151f2a35690dc8bd41e470edeca1b4"
+    url = "https://github.com/JuliaBinaryWrappers/QDLDL_jll.jl/releases/download/QDLDL-v0.1.5+0/QDLDL.v0.1.5.x86_64-w64-mingw32.tar.gz"
